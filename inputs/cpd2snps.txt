@@ -1,0 +1,2 @@
+rsID	Reference_Allele	Alternate_Allele	EAF	Beta	SE
+rs16969968	G	A	0.33074	NA	NA
